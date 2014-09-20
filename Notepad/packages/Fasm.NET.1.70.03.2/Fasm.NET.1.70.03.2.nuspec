@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Fasm.NET</id>
+    <version>1.70.03.2</version>
+    <authors>ZenLulz (Jämes Ménétrey)</authors>
+    <owners>ZenLulz (Jämes Ménétrey)</owners>
+    <licenseUrl>http://binarysharp.com/products/fasmnet/license</licenseUrl>
+    <projectUrl>http://binarysharp.com/products/fasmnet/</projectUrl>
+    <iconUrl>http://binarysharp.com/ccs_files/Products/Fasm.NET/NuGet_Logo.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>A managed wrapper to use FASM compiler within .NET applications.</description>
+    <releaseNotes>Publishing the initial release with Flat Assembler 1.70.03</releaseNotes>
+    <copyright>Copyright © 2013 Jämes Ménétrey (a.k.a. ZenLulz)</copyright>
+    <language>en-US</language>
+    <tags>fasm asm assembly compiler binarysharp zenlulz memorysharp memory</tags>
+  </metadata>
+</package>
